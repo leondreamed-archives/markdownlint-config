@@ -1,0 +1,7 @@
+{
+  "name": "@leonzalion/markdownlint-config",
+  "version": "1.0.0",
+  "description": "A shared Markdownlint config for my projects.",
+  "main": "index.js",
+  "license": "MIT"
+}
